@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         vCenter 7.0.3 ui fix
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  get rid of excessive whitespace in the inventory tree
 // @author       Junkhacker
 // @grant        GM_addStyle
